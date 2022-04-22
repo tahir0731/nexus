@@ -47,11 +47,11 @@
 http://54.174.253.242:8081/repository/package/
 </url>
 </repository>
-<snapshotRepository>	
+<snapshotsRepository>	
 <id>snapshots</id>
 <url>
 http://54.174.253.242:8081/repository/snapshots/
-</url>
-</snapshotRepository>
+</url>	
+</snapshotsRepository>
 </distributionManagement>
 </project>
